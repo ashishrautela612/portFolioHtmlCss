@@ -25,7 +25,7 @@ body {
   margin-right: 50px;
   font-weight: bold;
   font-size: 20px;
-  color: rgb(65, 63, 63);
+  /* color: rgb(65, 63, 63); */
 }
 .profile {
   display: flex;
@@ -59,10 +59,10 @@ body {
   margin: 45px 196px 45px 0px;
   padding: 9px 7px;
   width: 10vw;
-  /* background-color: rgb(255, 100, 100, 0.9); */
-  background-color: rgb(236,13,13,0.9);
+  background-color: rgb(255, 100, 100, 0.9);
+  /* background-color: rgb(236,13,13); */
   border: none;
-  border-radius: 5px;
+  border-radius: 2px;
   color: white;
   font-size: 14px;
   font-weight: 600;
@@ -71,6 +71,7 @@ body {
   width: 100%;
   /* background-color: #edf7fa; */
   background-color: #EDF7F9;
+  /* background-color: lightskyblue; */
 }
 .postsHeader {
   display: flex;
@@ -113,6 +114,7 @@ body {
 }
 .postDetails >span{
     margin-right: 30px;
+    font-size: 18px;
 }
 .postDescription{
     line-height: 1.5;
