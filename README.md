@@ -1,7 +1,7 @@
 
 This is the code for a simple portfolio website built with HTML and CSS.
 
-Features:
+#Features:
 
 Navigation bar: Links to different sections of the website, including works, blog, and contact.
 Profile section: Includes an introduction, profile image, and a button to download a resume.
@@ -10,7 +10,7 @@ Featured works section: Showcases a few projects with images, titles, and descri
 Footer: Includes social media icons and copyright information.
 
 
-Instructions:
+#Instructions:
 Save the HTML code: Save the code above as index.html in your desired directory.
 Create a CSS file: Create a new file named portfolio.css in the same directory and add your custom styles.
 Add images: Replace the placeholder image paths in the code with the paths to your own images.
