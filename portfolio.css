@@ -14,7 +14,8 @@ body {
 .header {
     margin: auto;
   margin-top: 30px;
-  width: 90%;
+  width: 100%;
+  /* position: fixed; */
 }
 .navItems {
   list-style: none;
@@ -58,7 +59,8 @@ body {
   margin: 45px 196px 45px 0px;
   padding: 9px 7px;
   width: 10vw;
-  background-color: rgb(255, 100, 100, 0.9);
+  /* background-color: rgb(255, 100, 100, 0.9); */
+  background-color: rgb(236,13,13,0.9);
   border: none;
   border-radius: 5px;
   color: white;
@@ -67,7 +69,8 @@ body {
 }
 .posts {
   width: 100%;
-  background-color: #edf7fa;
+  /* background-color: #edf7fa; */
+  background-color: #EDF7F9;
 }
 .postsHeader {
   display: flex;
@@ -165,4 +168,30 @@ body {
 }
 .cardDescription{
     width: 55%;
+}
+
+.footer{
+  width: 20%;
+  margin: auto;
+  margin-top: 100px;
+
+}
+
+.footerIcons{
+  display: flex;
+}
+
+.svgIcon{
+  height: 40px;
+  padding: 0 15px;
+  width: 100%;
+}
+
+.copyRight{
+  width: 85%;
+  margin: auto;
+  font-size: 14px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-weight: 600;
 }
